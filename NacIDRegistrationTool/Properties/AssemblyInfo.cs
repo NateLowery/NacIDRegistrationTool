@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NacIDRegistrationTool")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("NacID Registration Tool")]
+[assembly: AssemblyDescription("Tool to aid in the registration of NacID remote access software.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("CenturyLink, Inc.")]
 [assembly: AssemblyProduct("NacIDRegistrationTool")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
